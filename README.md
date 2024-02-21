@@ -5,7 +5,7 @@
 ## Evaluating the Effectiveness and Equity of Disaster Relief Efforts: An Analysis of Socio-economic Influences and Aid Distribution
 Term: Spring 2024
 
-+ Team #
++ Team group7
 + **Projec title**: + Team members
 	+ Fei Li
 	+ team member 2
