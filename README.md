@@ -18,7 +18,7 @@ Term: Spring 2024
 
 
 + **Contribution statement**
-+ Fei Li: builded shiny app and organize the five questions and shiny part into the one project.
++ Fei Li: builded shiny app and organized the five questions and shiny part into the one project.
 + Yonghao Xu: Coding part of the topic 4 and 5 of the project，ppt layout，presenter, filter the dataset
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
