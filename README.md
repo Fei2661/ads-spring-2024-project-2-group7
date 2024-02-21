@@ -2,7 +2,7 @@
 
 ### [Project Description](doc/project2_desc.md)
 
-## Project Title Lorem ipsum dolor sit amet
+## Evaluating the Effectiveness and Equity of Disaster Relief Efforts: An Analysis of Socio-economic Influences and Aid Distribution
 Term: Spring 2024
 
 + Team #
