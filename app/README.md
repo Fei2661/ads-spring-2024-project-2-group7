@@ -2,4 +2,5 @@
 ### App folder
 
 We Build the shiny inside the "5243 project 2.ipynb" file. I upload here and doc folder.
+Run the shiny part code and click the link, our shiny app will pop out.
 
