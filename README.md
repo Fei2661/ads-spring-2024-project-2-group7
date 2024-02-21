@@ -6,7 +6,7 @@
 Term: Spring 2024
 
 + Team group7
-+ **Projec title**: + Team members
++ **Evaluating the Effectiveness and Equity of Disaster Relief Efforts: An Analysis of Socio-economic Influences and Aid Distribution**:
 	+ Fei Li
 	+ team member 2
 	+ team member 3
