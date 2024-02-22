@@ -10,7 +10,7 @@ Term: Spring 2024
 	+ Fei Li
 	+ Yonghao Xu
 	+ Lei Bao
-	+ team member 4
+	+ Boyu Li
 	+ team member 5
  	+ team member 6
 
