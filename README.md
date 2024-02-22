@@ -18,7 +18,7 @@ Term: Spring 2024
 
 
 + **Contribution statement**
-+ Fei Li: builded shiny app and organized the five questions and shiny part into the one project.
++ Fei Li: builded shiny app and organized the five questions, shiny part into the one project, and powerpont shiny part.
 + Yonghao Xu: Coding part of the topic 4 and 5 of the project，ppt layout，presenter, filter the dataset
 + Boyu Li: Data Analysis of the topic 3 of the project，ppt topic1, filter the dataset using python. 
 + Lei Bao: Data Analysis of the topic 1 of the project and Visilize the results, Create the Powerpoint slides of topic 1,  filter the dataset using Python
